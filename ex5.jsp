@@ -34,7 +34,6 @@ item_1_total += item_1_price;
 <%
 }
 %>
-<hr>
 <%
 int item_2_total = 0;
 for(int i = 1; i <= item_2_count; i++) {
